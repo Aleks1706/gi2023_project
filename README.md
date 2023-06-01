@@ -5,10 +5,14 @@ Test different combinations of the number of features, K and L and plot the resu
 
 Create a PowerPoint (Google Slides) presentation explaining all the work being done and a video presentation publicly available on Youtube. Perform code versioning on the Github repository and provide the link to it. 
 
+
 # Instructions to run the project
-Change the paths to filename_mouse_brain and filename_mouse_embryo.
-Otherwise just run the project in the cell order as normal.
+
+The whole project can be easily started by running file gi_projekat.py from command line. It is parametrized (with command line arguments) by dataset used, feature selection method, machine learning model and new threshold for new annotations.
+
+Otherwise, it can be also run from the jupyter notebook. Just update paths to filename_mouse_brain and filename_mouse_embryo, and run the project in the cell order as normal.
 
 You can run the cell with plotting multiple times. It chooses 3 random rows from the table of results to plot so you can see how the image changes for different values of features, folds and l.
+
 
 # Link to the youtube tutorial
