@@ -16,3 +16,5 @@ You can run the cell with plotting multiple times. It chooses 3 random rows from
 
 
 # Link to the youtube tutorial
+
+https://youtu.be/M3dWOBwfOUc
